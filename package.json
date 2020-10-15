@@ -1,6 +1,6 @@
 {
   "name": "pannelum-react-without-css",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Pannellum React Component without css imports",
   "main": "lib/index.js",
   "module": "es/index.js",
