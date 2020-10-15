@@ -1,7 +1,7 @@
 {
-  "name": "pannellum-react",
+  "name": "pannelum-react-without-css",
   "version": "1.2.3",
-  "description": "Pannellum React Component",
+  "description": "Pannellum React Component without css imports",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
@@ -37,10 +37,10 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
-  "author": "farminf<farmin.f@gmail.com>",
-  "homepage": "https://github.com/farminf/pannellum-react",
+  "author": "allorim<allorim@protonmail.com>",
+  "homepage": "https://github.com/rustmn/pannellum-react",
   "license": "MIT",
-  "repository": "https://github.com/farminf/pannellum-react",
+  "repository": "https://github.com/rustmn/pannellum-react",
   "keywords": [
     "react-component",
     "Pannellum",
@@ -48,5 +48,6 @@
     "component",
     "360",
     "vr"
-  ]
+  ],
+  "private": null
 }
