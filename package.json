@@ -20,7 +20,7 @@
     "deploy": "gh-pages -d demo/dist"
   },
   "dependencies": {
-    "video.js": "^7.1.0"
+    "video.js": "7.9.7"
   },
   "peerDependencies": {
     "react": "16.x"
